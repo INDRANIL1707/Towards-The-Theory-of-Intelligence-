@@ -2,7 +2,7 @@
 
 ## A Computational Hypothesis of Memory as State-Dependent Dynamics, and a Program to Test It
 
-**Status:** Research hypothesis / exploratory framework — revised for terminological precision, honest positioning against prior work, and experimental grounding.
+**Status:** Research hypothesis / exploratory framework, revised for terminological precision, honest positioning against prior work, and experimental grounding.
 **Purpose:** Formalization and falsification program for theoretical and engineering investigation.
 **Keywords:** memory, persistent state, POMDP belief states, recurrent/state-space models, associative memory, test-time learning, in-memory computing, AGI, metamemory.
 
@@ -10,7 +10,7 @@
 
 ### Note on this revision
 
-The original draft made two kinds of claims without distinguishing them: (1) a *weak* claim — persistent history-dependent state changes future computation — which is already the formal definition of a state-space system and is not new; and (2) a *strong* claim — that memory should be understood as structure which reconfigures the transition operator itself, not merely as an extra input consumed by a fixed operator — which is a live, unresolved, and actively-researched question. The original text also boxed the same restated claim five or six times, used `m_t` and `M_t` inconsistently, and did not cite the substantial existing literature that already formalizes most of the "weak" claim. This revision:
+The original draft made two kinds of claims without distinguishing them: (1) a *weak* claim, persistent history-dependent state changes future computation which is already the formal definition of a state-space system and is not new; and (2) a *strong* claim, that memory should be understood as structure which reconfigures the transition operator itself, not merely as an extra input consumed by a fixed operator  which is a live, unresolved, and actively-researched question. The original text also boxed the same restated claim five or six times, used `m_t` and `M_t` inconsistently, and did not cite the substantial existing literature that already formalizes most of the "weak" claim. This revision:
 
 1. Fixes notation.
 2. Adds a related-work section that names what is already established, so the residual novel claim is visible instead of implied by omission.
